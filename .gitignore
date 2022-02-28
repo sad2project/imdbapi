@@ -1,0 +1,7 @@
+/.idea
+/__pycache__
+/venv
+cache.db
+.env
+/dist
+/imdbapi.egg-info
